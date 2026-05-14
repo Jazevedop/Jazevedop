@@ -1,4 +1,3 @@
-[README (2).md](https://github.com/user-attachments/files/27773123/README.2.md)
 # 👨🏻‍💻 João Pedro Azevedo Silva
 
 **`Desenvolvedor Python | Futuro Especialista em Cibersegurança`**
